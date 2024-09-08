@@ -1,0 +1,83 @@
+*{
+	color: white;
+	font-family:Arial;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:10pt;
+	margin-bottom:0px;	
+}
+.leftSauereImg{
+	float:left;
+	margin-right:2%;
+	margin-bottom:2%;
+}
+
+
+main{
+	background-color : blue;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-left:1%;
+	padding-right:1%;
+	padding-top:1%;
+	padding-bottom:1%;
+}
+
+
+a{
+	color:red;
+}
+
+article{
+	display: block;
+	width: 60%;
+}
+
+aside{
+	float:right;
+	width: 40%;
+	margin-top:0;
+}
+
+table{
+	margin-top:0px;
+}
+
+.likeParagraph{
+	width:100%;
+	border-width:2px;
+	margin:0;	
+}
+
+li:nth-child(2){
+	color:#00FF00;
+	letter-spacing:0.3em;
+	font-size:1.2em;
+}
+
+header {
+	background-color: green;
+	text-align:center;
+	margin-bottom:0px;
+}
+footer{
+	margin-top:0px;
+	background-color: green;
+	text-align:center;
+}
+
+nav{
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	text-align:center;	
+}
+
+.firstWord{
+	color:red;	
+}
+
+ul >li {
+	 font-size:1.1em;
+}
